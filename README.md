@@ -37,7 +37,7 @@ To get started you need to:
 
 - Clone the project
 - Install listed dependencies
-- Run available scripts# Usage
+- Run available scripts
 
 ### Install dependencies
 
