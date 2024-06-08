@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Grocery Shopping",
+      "priority": "Medium",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "text": "Workout Routine",
+      "priority": "High",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "text": "Study Schedule",
+      "priority": "Low",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "text": "Home Tasks",
+      "priority": "Medium",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "text": "Project Tasks",
+      "priority": "High",
+      "completed": false
+    }
+  ]
+}
