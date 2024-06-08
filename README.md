@@ -1,4 +1,5 @@
 # todo-app
+![todo-app](https://github.com/andrewmartinn/todo-app/assets/152824513/f24eb038-8912-4449-a0c0-9561da753b99)
 
 Todo App is a simple application that allows users to manage their tasks effectively. Users can add new todos, delete existing ones, and toggle the completion status of todos. Additionally, users can assign priorities to todos while creating them.
 
