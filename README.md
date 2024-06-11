@@ -29,7 +29,7 @@ Todo App is a simple application that allows users to manage their tasks effecti
 
 - REST API Interaction: Interacted with a REST API using fetch to perform CRUD (Create, Read, Update, Delete) operations on todo items.
 
-# Project Setup
+## Project Setup
 
 This project was bootstrapped with [Vite](https://vitejs.dev/guide/)
 
@@ -67,6 +67,6 @@ npm run build
 
 To deploy this project run
 
-```bash
+```
   npm run deploy
 ```
